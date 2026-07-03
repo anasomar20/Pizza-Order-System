@@ -88,26 +88,16 @@ or click **Start Without Debugging**.
 
 # 📷 Screenshots
 
-Create an **images** folder and add screenshots.
-
-Example:
-
-```
-images/
-    home.png
-    order.png
-    summary.png
-```
-
-Then display them like this:
-
-```markdown
-## Main Window
-
-![Main Window](images/home.png)
-```
-
----
+<p align="center">
+    <img src="images/Home.png" width="700">
+    <br>
+    <em>Main Application Interface</em>
+</p>
+<p align="center">
+    <img src="images/Order.png" width="700">
+    <br>
+    <em>Order Summary with Total Price</em>
+</p>
 
 # 🎯 Learning Objectives
 
