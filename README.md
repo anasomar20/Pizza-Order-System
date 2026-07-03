@@ -130,11 +130,6 @@ This project demonstrates:
 
 Backend Developer
 
-- C#
-- ASP.NET Core
-- SQL Server
-- Entity Framework Core
-
 ---
 
 # ⭐ Support
